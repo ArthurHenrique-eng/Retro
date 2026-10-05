@@ -25,8 +25,6 @@ O projeto foi desenvolvido como atividade acadêmica com foco em apresentação 
 - CSS3
 - JavaScript
 
-O projeto não utiliza banco de dados e pode ser executado diretamente no navegador.
-
 ## Estrutura
 
 ```text
@@ -49,34 +47,6 @@ Retro/
 
 Também é possível utilizar a extensão **Live Server** no VS Code.
 
-## Configurações antes da entrega
-
-### WhatsApp
-
-No arquivo `js/script.js`, altere:
-
-```js
-const STORE_WHATSAPP = "5531999999999";
-```
-
-Use o número real da loja no formato:
-
-```text
-55 + DDD + número
-```
-
-Exemplo de estrutura: `5531XXXXXXXXX`.
-
-### Endereço
-
-No rodapé do arquivo `index.html`, substitua:
-
-```text
-Endereço da loja: atualize aqui com o endereço comercial completo.
-```
-
-pelo endereço real da loja.
-
 ## Gêneros incluídos
 
 - Rock
@@ -87,12 +57,9 @@ pelo endereço real da loja.
 - Sertanejo
 - Sertanejo Universitário
 
-O catálogo pode ser ampliado facilmente adicionando novos cards em `index.html`.
-
 ## Observações
 
-Os preços apresentados são estimados e possuem finalidade expositiva. As imagens utilizadas no catálogo são ilustrativas e provenientes do Unsplash.
+Projeto desenvolvido para fins educacionais.
 
 ---
 
-Projeto desenvolvido para fins educacionais.

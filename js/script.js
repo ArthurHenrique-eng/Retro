@@ -1,4 +1,4 @@
-const STORE_WHATSAPP = "5531999999999"; // TODO: substitua pelo número real da loja com DDI + DDD.
+const STORE_WHATSAPP = "5531989695319"; // TODO: substitua pelo número real da loja com DDI + DDD.
 
 const menuToggle = document.querySelector(".menu-toggle");
 const mainNav = document.querySelector(".main-nav");
